@@ -30,6 +30,18 @@
   border: solid green;
 }
 
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.gap-1rem {
+  gap: 1rem;
+}
+
 @media (width >= 80em) {
   .container {
     --max-width: 80em;
