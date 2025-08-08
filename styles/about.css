@@ -1,4 +1,5 @@
 #about {
+  /*border: solid green;*/
   background-color: var(--surface-color);
 
   & .even-colunms {
