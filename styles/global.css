@@ -94,7 +94,7 @@ a:hover {
   -webkit-text-fill-color: transparent;
 }
 
-ul [role= "list"] {
+ul[role="list"] {
   list-style: none;
 }
 
